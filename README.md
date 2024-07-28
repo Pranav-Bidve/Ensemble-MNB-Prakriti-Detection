@@ -1,5 +1,5 @@
 
-# AyurPredict
+# An Ensemble Multinomial Naïve Bayes Classifier for Overlapping Prakriti Detection
 
 ## This project addresses overlapping 'Prakriti' clusters  by analyzing multiple characteristics of individuals, clustering data into seven groups using the k-modes method.
 
